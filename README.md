@@ -17,5 +17,6 @@ Analyzed pizza sales data using Excel &amp; SQL. Performed data cleaning, calcul
   <li>Provide actionable insights to optimize inventory, marketing strategies, and operational efficiency based on data analysis</li>
   <li>Dashboard Interactions <a href="https://github.com/m-hamza-7/Data-Analysis-Dashboard/blob/main/MyDashboard.png">View Dashboard</a></li>
 </ul>
+
 ## Dashboard
 ![MyDashboard](https://github.com/user-attachments/assets/c2d8406a-e0d8-4b57-9a83-48fa8f697c0d)
